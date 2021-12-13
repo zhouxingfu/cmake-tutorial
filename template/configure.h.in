@@ -1,0 +1,4 @@
+#define TEST_VERSION v@test_version@
+#define TEST_VERSION_MAJOR @test_MAJOR_VERSION@
+#define TEST_VERSION_MINOR @test_MINOR_VERSION@
+#define TEST_VERSION_PATCH @test_PATCH_VERSION@
